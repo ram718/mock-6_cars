@@ -1,0 +1,50 @@
+{
+  "cars": [
+    {
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2018,
+      "kms": 2325,
+      "description": "Tata EV with automatic transmission",
+      "price": 9984400,
+      "id": 1
+    },
+    {
+      "brand": "Hyundai",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 32324324,
+      "description": "Hyundai Verna with good interior",
+      "price": 42323121,
+      "id": 3
+    },
+    {
+      "brand": "Honda",
+      "type": "Manual",
+      "year": 2020,
+      "kms": 3239,
+      "description": "Honda City with manual transmission",
+      "price": 392822,
+      "id": 4
+    },
+    {
+      "brand": "Skoda",
+      "type": "AMT",
+      "year": 2022,
+      "kms": 24323,
+      "description": "Skoda Slavia with automatic transmission",
+      "price": 32872932,
+      "id": 5
+    },
+    {
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2021,
+      "kms": 6483,
+      "description": "Tata EV with automatic transmission",
+      "price": 8864292,
+      "id": 6
+    }
+  ],
+  "wishlisted_cars": []
+}
